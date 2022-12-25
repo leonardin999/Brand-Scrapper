@@ -1,14 +1,8 @@
-# Template: Basic Python only robot
-
-Get started with just Python.
+# Template: Using Python on Robot Framework to Build Brand Scrapper
 
 This template robot:
 
 - Uses only Python.
-- Provides a simple template to start from (`task.py`).
+- Provides a template to start from (`task.py`).
 
-## Learning materials
-
-- [Python basics](https://robocorp.com/docs/languages-and-frameworks/python)
-- [Best practices in creating Python robots](https://robocorp.com/docs/development-guide/qa-and-best-practices/python-robots)
 "# Brand-Scrapper build on Robot Framework" 
